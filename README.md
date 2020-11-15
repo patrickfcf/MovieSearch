@@ -2,7 +2,7 @@
 Movie Search App 
 
 # About
-Movie search application using omdb api with flask
+Movie search application using omdb api with flask that generates a pptx file as output
 
 # Requirements
 ```
